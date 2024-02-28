@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aris2\\source\\repos\\ELibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9EF2365-7247-44D0-88ED-AFCA24AB59F7}|ELibrary\\ELibrary.csproj|c:\\users\\aris2\\source\\repos\\elibrary\\elibrary\\fontawesome\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D9EF2365-7247-44D0-88ED-AFCA24AB59F7}|ELibrary\\ELibrary.csproj|solutionrelative:elibrary\\fontawesome\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LICENSE.txt",
+              "DocumentMoniker": "C:\\Users\\aris2\\source\\repos\\ELibrary\\ELibrary\\fontawesome\\LICENSE.txt",
+              "RelativeDocumentMoniker": "ELibrary\\fontawesome\\LICENSE.txt",
+              "ToolTip": "C:\\Users\\aris2\\source\\repos\\ELibrary\\ELibrary\\fontawesome\\LICENSE.txt",
+              "RelativeToolTip": "ELibrary\\fontawesome\\LICENSE.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-02-28T03:14:49.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
